@@ -3,7 +3,7 @@
         <content>
             <List noDataText="No Items in the List" id="list0" items="{/BusinessPartnerSet}">
                 <items>
-                    <StandardListItem type="Navigation" title="{CompanyName}" description="{WebAddress}" icon="sap-icon://picture" id="item0"/>
+                    <StandardListItem type="Active" title="{CompanyName}" description="{WebAddress}" icon="sap-icon://picture" id="item0"/>
                 </items>
             </List>
         </content>
