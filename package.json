@@ -9,14 +9,13 @@
         "sapui5"
     ],
     "main": "webapp/index.html",
-    "dependencies": {},
     "devDependencies": {
-        "@ui5/cli": "^2.14.1",
-        "@sap/ux-ui5-tooling": "1",
-        "@sap/ux-ui5-fe-mockserver-middleware": "1",
         "@sap/ui5-builder-webide-extension": "^1.1.7",
-        "ui5-task-zipper": "^0.3.1",
-        "mbt": "^1.0.15"
+        "@sap/ux-ui5-fe-mockserver-middleware": "1",
+        "@sap/ux-ui5-tooling": "1",
+        "@ui5/cli": "^2.14.19",
+        "mbt": "^1.0.15",
+        "ui5-task-zipper": "^0.3.1"
     },
     "scripts": {
         "start": "fiori run --open \"test/flpSandbox.html?sap-client=002&sap-ui-xx-viewCache=false#businesspartner-display\"",

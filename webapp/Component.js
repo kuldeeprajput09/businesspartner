@@ -11,7 +11,7 @@ sap.ui.define([
                 manifest: "json"
             },
 
-            //Comment Kuldeep Singh - GITHUB Public
+            //Comment Kuldeep Singh - GITHUB Public Date 27/09/2023
 
             /**
              * The component is initialized by UI5 automatically during the startup of the app and calls the init method once.
